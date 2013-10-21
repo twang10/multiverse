@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	background: #000000 url('bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center;
+}
+
+div {
+	color: white;
+	font-family: sans-serif, Helvetica;
+	position: relative;
+	margin-top: 25%;
+
+
+}
